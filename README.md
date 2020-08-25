@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning Spring boot
+### 🌱 I’m currently learning AI
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimdy003)](https://github.com/anuraghazra/github-readme-stats)
  
