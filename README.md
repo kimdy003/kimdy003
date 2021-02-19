@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning AI
+### 🌱 I’m currently learning AI ✔️
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimdy003)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdy003)](https://hits.seeyoufarm.com)
  
- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kyl123451) ✔️ 
+ [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kyl123451)](https://solved.ac/kyl123451) 
